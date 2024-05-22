@@ -10,13 +10,7 @@
 git clone https://github.com/Tapey-ui/Axrail_Assessment.git
 ```
 
-<p>2. Install csv library from pip (If csv library is not installed in Python environment)</p>
-
-```
-pip install csv
-```
-
-<p>3. Run program</p>
+<p>2. Run program</p>
 
 ```
 python ./main.py
